@@ -11,7 +11,7 @@
         http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
 	<mvc:annotation-driven />
-	<context:component-scan base-package="devops.mvc" />
+	<context:component-scan base-package="devops" />
 	
 	<mvc:view-controller path="/" view-name="index"/>
 	
