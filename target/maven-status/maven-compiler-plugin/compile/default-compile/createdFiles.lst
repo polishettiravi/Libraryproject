@@ -1,0 +1,9 @@
+devops/mvc/MonitoringController.class
+devops/business/DataManagerImpl.class
+devops/integration/LibraryDAOImpl.class
+devops/business/DockerData.class
+devops/mocking/LoginController.class
+devops/integration/LibraryDAO.class
+devops/mocking/Authenticate.class
+devops/business/Library.class
+devops/business/DataManager.class
